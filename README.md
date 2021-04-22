@@ -5,7 +5,7 @@ We have use kubernetes secret to store the confidential data.
 
 
 # Deploy the code
-**Prerequiste** : To deploy the code we will need and existing kubernetes cluster or
+**Prerequisite** : To deploy the code we will need and existing kubernetes cluster or
 minukube to test this deployment.
 kubectl tool is required to deploy from command line utility.
 
